@@ -2,7 +2,7 @@
 1. félév HTML beadandó kész weboldala
 
 Készítette: Hegyi Levente
-URL: https://mtlevi70.github.io/colee/bemutatas.html
+URL: https://mtlevi70.github.io/colee
 
 A weboldalamat Co Lee magyar rapperől készítettem. Célom az volt, hogy egyrészről megismertesse a laikussal a zenészt, másrészről aki már ismeri, kicsit mélyebb betekintést nyerhessen Kolos személyébe.
 
