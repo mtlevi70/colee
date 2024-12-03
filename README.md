@@ -31,4 +31,4 @@ A bemutatás.html szövegi felépítése chatGPT, hiteles információkkal sajá
 		https://recorder.blog.hu/2024/02/25/_nekem_masfajta_nehezeim_vannak_co_lee-interju
 		https://hvg.hu/elet/20241005_co-lee-fotok-akvarium
 
-Ui.: a Google DevToolsban hibát ír ki a Spootify embbedekre,de ettől függetlenül tökéletesen működnek.
+Ui.: a Google DevToolsban hibát ír ki a Spotify embbedekre,de ettől függetlenül tökéletesen működnek.
