@@ -12,7 +12,8 @@ JavaScript kódok:
 első idézetnél az utolsót tűnteti el.
 		- Spotify zeneajánló: a Spotify embbed kódját bárki felhasználhatja. Egymásra raktam position: absolute-tal és elrejtem őket. Egy random generátor szerint az adott indexű embbed-et megjelenítem.
 
-Mindenhol egységes Google Fontsot használok:https://fonts.google.com/specimen/Oswald
+Mindenhol Google Fontsot használok: https://fonts.google.com/specimen/Oswald. linkelve van css-en belül 
+Az idézet idézőjelei más betűtípus: https://fonts.google.com/specimen/Protest+Revolution nem linkelve vannak, hanem le vannak töltve
 
 A JQuery errorok a radiokat és checkboxokat szétválasztotta, ezért chatgpt-től kértem segítséget, hogy hogy kell az errorokat formázni.
 A hamburger menüt számos forrásból ihlettem, chatgpt-től is kértem segítséget, de csak a megértés végett. A végső (mostani) verziója már saját (épp megtanult) tudás alapján készült
